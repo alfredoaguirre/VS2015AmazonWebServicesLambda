@@ -23,9 +23,8 @@ There are 3 available commands.
 ## Install
 
 ```
-git clone https://github.com/RebelMail/node-lambda-template.git
-cd node-lambda-template
 npm install
 ```
 
+## use visual studio normaly
 
